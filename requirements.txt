@@ -5,4 +5,5 @@ ipywidgets
 matplotlib
 voila
 ipykernel
-
+s3fs
+boto3
