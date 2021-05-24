@@ -7,3 +7,4 @@ voila
 ipykernel
 s3fs
 boto3
+openpyxl
