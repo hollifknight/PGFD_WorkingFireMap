@@ -8,3 +8,7 @@ ipykernel
 s3fs
 boto3
 openpyxl
+python-dotenv
+requests
+authlib
+six
